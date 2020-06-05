@@ -3,7 +3,6 @@ gem 'sinatra'
 gem 'sinatra-cross_origin'
 gem 'mysql2'
 gem 'json'
-gem 'bcrypt'
 gem 'slim'
 gem 'logger'
 
