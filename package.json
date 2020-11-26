@@ -1,0 +1,27 @@
+{
+  "name": "point",
+  "version": "0.0.1",
+  "description": "point tong tong past list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://4582@bitbucket.org/4582/point.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/4582/point#readme",
+  "dependencies": {
+    "fastify": "^2.15.3",
+    "fastify-cookie": "^3.6.1",
+    "fastify-file-upload": "^2.1.0",
+    "fastify-formbody": "^3.2.0",
+    "fastify-session": "^3.3.0",
+    "fastify-static": "^2.7.0",
+    "mysql2": "^2.2.5",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.0"
+  }
+}
