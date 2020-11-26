@@ -5,14 +5,10 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://4582@bitbucket.org/4582/point.git"
-  },
-  "author": "",
+  },  
+  "author": "unfettered-cool",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/4582/point#readme",
+  "homepage": "https://github.com/unfettered-cool/point",
   "dependencies": {
     "fastify": "^2.15.3",
     "fastify-cookie": "^3.6.1",
