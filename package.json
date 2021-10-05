@@ -15,7 +15,7 @@
     "fastify-file-upload": "^2.1.0",
     "fastify-formbody": "^3.2.0",
     "fastify-session": "^3.3.0",
-    "fastify-static": "^2.7.0",
+    "fastify-static": "^4.2.4",
     "mysql2": "^2.2.5",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.0"
