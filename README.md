@@ -1,7 +1,7 @@
 # 포인트 통통 족보 기능
 
 ## Tech Stack
-node.js / fastify / html5 / javascript / bulma css / mariadb 10.4
+node.js / fastify / html5 / javascript / bulma css / mariadb 10.6
 
 ## Deploy
 pm2 의 dotenv 등 연동고민하여 dev 일때는 console.log prod 일때는 fastify 의 log 로 동작
